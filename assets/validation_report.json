@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "row_count": 7043,
+  "column_count": 33,
+  "duplicate_rows": 0,
+  "missing_required_columns": [],
+  "invalid_churn_labels": [],
+  "missing_values": {
+    "Churn Reason": 5174
+  },
+  "errors": []
+}
